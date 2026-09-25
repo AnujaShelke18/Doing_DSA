@@ -8,6 +8,7 @@ Learning and solving
 | ------- |
 | [0001-two-sum](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0055-jump-game) |
 | [0217-contains-duplicate](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -24,6 +25,7 @@ Learning and solving
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
