@@ -10,6 +10,7 @@ Learning and solving
 | [0015-3sum](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
@@ -39,4 +40,8 @@ Learning and solving
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0238-product-of-array-except-self) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
