@@ -4,7 +4,7 @@ class Solution {
     for (int i = digits.length - 1; i >= 0; i--) {
         if (digits[i] < 9) {
             digits[i]++; // Simply add 1
-            return digits; // No more carries needed! Return early.
+            return digits; // Return early.
         }
         
         // If the digit was 9, it rolls over to 0
