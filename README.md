@@ -19,12 +19,14 @@ Learning and solving
 | ------- |
 | [0001-two-sum](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,4 +49,8 @@ Learning and solving
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0066-plus-one) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
