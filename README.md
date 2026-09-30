@@ -19,6 +19,7 @@ Learning and solving
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -50,10 +51,12 @@ Learning and solving
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
