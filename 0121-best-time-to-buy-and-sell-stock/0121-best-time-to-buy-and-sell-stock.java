@@ -6,8 +6,7 @@ class Solution {
        for(int sell=1; sell < prices.length; sell++){
            if(prices[sell] < prices[buy]){
             buy = sell;
-           }
-           if(prices[sell] > prices[buy]){
+           } else if(prices[sell] > prices[buy]){
              int profit = prices[sell] - prices[buy];
              if(profit > maxProfitt){
                 maxProfitt = profit;
