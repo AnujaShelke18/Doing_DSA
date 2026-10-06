@@ -61,6 +61,7 @@ Learning and solving
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
