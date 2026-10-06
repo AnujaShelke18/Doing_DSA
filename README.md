@@ -38,6 +38,7 @@ Learning and solving
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Learning and solving
 | ------- |
 | [0013-roman-to-integer](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
