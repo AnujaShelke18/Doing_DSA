@@ -7,6 +7,7 @@ Learning and solving
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -71,6 +72,7 @@ Learning and solving
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0053-maximum-subarray) |
 ## Trie
 |  |
@@ -92,4 +94,8 @@ Learning and solving
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AnujaShelke18/Doing_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
